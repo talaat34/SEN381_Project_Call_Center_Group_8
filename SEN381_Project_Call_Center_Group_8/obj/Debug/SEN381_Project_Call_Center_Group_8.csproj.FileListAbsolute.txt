@@ -12,3 +12,16 @@ C:\Users\user-pc\source\repos\SEN381_Project_Call_Center_Group_8\SEN381_Project_
 C:\Users\user-pc\source\repos\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.exe
 C:\Users\user-pc\source\repos\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.pdb
 C:\Users\user-pc\source\repos\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.adminstratorDashboard.resources
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\bin\Debug\SEN381_Project_Call_Center_Group_8.exe.config
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\bin\Debug\SEN381_Project_Call_Center_Group_8.exe
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\bin\Debug\SEN381_Project_Call_Center_Group_8.pdb
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csprojAssemblyReference.cache
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.adminstratorDashboard.resources
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.login.resources
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.splash.resources
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.Properties.Resources.resources
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csproj.GenerateResource.cache
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csproj.CoreCompileInputs.cache
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csproj.CopyComplete
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.exe
+C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.pdb
