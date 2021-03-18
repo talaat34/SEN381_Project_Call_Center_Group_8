@@ -25,3 +25,12 @@ C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Proj
 C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csproj.CopyComplete
 C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.exe
 C:\Users\mail4\OneDrive\Desktop\Class 2021\SEN 381\Group 8 Practical\SEN381_Project_Call_Center_Group_8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.pdb
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csprojAssemblyReference.cache
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.adminstratorDashboard.resources
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.login.resources
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.splash.resources
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.Properties.Resources.resources
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.exe
+C:\Users\user-pc\Desktop\TALAAT BCom 3rd YEAR\SEN381\SEN381_PROJECT_GROUP8\SEN381_Project_Call_Center_Group_8\obj\Debug\SEN381_Project_Call_Center_Group_8.pdb

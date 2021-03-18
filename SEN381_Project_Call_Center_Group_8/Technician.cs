@@ -22,5 +22,29 @@ namespace SEN381_Project_Call_Center_Group_8
         public string TechnicianName1 { get => TechnicianName; set => TechnicianName = value; }
         public string TechnicianSurname1 { get => TechnicianSurname; set => TechnicianSurname = value; }
         public string ServiceTypeID1 { get => ServiceTypeID; set => ServiceTypeID = value; }
+    
+
+        public override string ToString()
+        {
+            return string.Format("ID: {0} - Name: {1} - Promotion: {2} - Service Type ID: {3}", TechnicianID, TechnicianName, TechnicianSurname, ServiceTypeID);
+        }
+        public override bool Equals(object obj)
+        {
+            //Check for null and compare run-time types.
+            if ((obj == null) || !this.GetType().Equals(obj.GetType()))
+            {
+                return false;
+            }
+            else
+            {
+                Point p = (Point)obj;
+                return (x == p.x) && (y == p.y);
+            }
+        }
+        public override int GetHashCode()
+        {
+            return TechnicianID ^ TechnicianName * TechnicianSurname * ServiceTypeID;
+        }
+
     }
 }
