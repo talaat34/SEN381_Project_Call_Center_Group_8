@@ -47,7 +47,7 @@ namespace SEN381_Project_Call_Center_Group_8
         }
         public override int GetHashCode()
         {
-            return ServiceTypeID * ServiceName ^ ServicePromotion ^ ServiceDescription ^ ServcieTierID * ServiceCost;
+            return ServiceTierID.GetHashCode() * ServiceTierCost.GetHashCode();
         }
     }
 }

@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace SEN381_Project_Call_Center_Group_8
 {
-    public partial class adminstratorDashboard : Form
+    public partial class AdminstratorDashboard : Form
     {
-        public adminstratorDashboard()
+        public AdminstratorDashboard()
         {
             InitializeComponent();
+        }
+
+        private void btnLogoutTech_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

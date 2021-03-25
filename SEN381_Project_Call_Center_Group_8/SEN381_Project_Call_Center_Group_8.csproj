@@ -51,12 +51,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="adminstrator.cs" />
-    <Compile Include="adminstratorDashboard.cs">
+    <Compile Include="AdministratorDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="adminstratorDashboard.Designer.cs">
-      <DependentUpon>adminstratorDashboard.cs</DependentUpon>
+    <Compile Include="AdministratorDashboard.Designer.cs">
+      <DependentUpon>AdministratorDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminstrator.cs" />
+    <Compile Include="TechnicianDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechnicianDashboard.Designer.cs">
+      <DependentUpon>TechnicianDashboard.cs</DependentUpon>
     </Compile>
     <Compile Include="BusinessClient.cs" />
     <Compile Include="CallCenterEmployee.cs" />
@@ -77,8 +83,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Technician.cs" />
-    <EmbeddedResource Include="adminstratorDashboard.resx">
-      <DependentUpon>adminstratorDashboard.cs</DependentUpon>
+    <EmbeddedResource Include="AdministratorDashboard.resx">
+      <DependentUpon>AdministratorDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechnicianDashboard.resx">
+      <DependentUpon>TechnicianDashboard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
